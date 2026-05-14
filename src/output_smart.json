@@ -1,0 +1,1298 @@
+[
+  {
+    "source": "Абдулла тесты",
+    "question": "Which tool resolves hostnames to IPs via DNS query?",
+    "options": [
+      "nslookup",
+      "ifconfig",
+      "netstat",
+      "traceroute"
+    ],
+    "correct_index": 0,
+    "correct_answer": "nslookup"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which mechanism enforces encrypted disk at rest?",
+    "options": [
+      "FDE",
+      "IDS",
+      "IPS",
+      "VPN"
+    ],
+    "correct_index": 0,
+    "correct_answer": "FDE"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which network control limits broadcast domains?",
+    "options": [
+      "NAT",
+      "DNS",
+      "VLAN",
+      "ARP"
+    ],
+    "correct_index": 2,
+    "correct_answer": "VLAN"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which protocol version of SNMP is secure by design?",
+    "options": [
+      "SNMPv1",
+      "SNMPv2c",
+      "SNMPv3",
+      "SNMPvO"
+    ],
+    "correct_index": 2,
+    "correct_answer": "SNMPv3"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which practice ensures patches are applied systematically?",
+    "options": [
+      "log rotation",
+      "port scanning",
+      "key reuse",
+      "patch management"
+    ],
+    "correct_index": 3,
+    "correct_answer": "patch management"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which approach verifies identity continuously during a session?",
+    "options": [
+      "password only",
+      "static token",
+      "continuous authentication",
+      "one-time login"
+    ],
+    "correct_index": 2,
+    "correct_answer": "continuous authentication"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which model bases decisions on attributes and context?",
+    "options": [
+      "RBAC",
+      "ABAC",
+      "MAC",
+      "DAC"
+    ],
+    "correct_index": 1,
+    "correct_answer": "ABAC"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which technique isolates untrusted code execution?",
+    "options": [
+      "mirroring",
+      "routing",
+      "bridging",
+      "sandboxing"
+    ],
+    "correct_index": 3,
+    "correct_answer": "sandboxing"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which mitigation randomizes memory addresses?",
+    "options": [
+      "sandboxing",
+      "signing",
+      "ASLR",
+      "DEP"
+    ],
+    "correct_index": 2,
+    "correct_answer": "ASLR"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which protection enforces memory non-executable regions?",
+    "options": [
+      "ASLR only",
+      "antivirus",
+      "DEP/NX",
+      "firewall"
+    ],
+    "correct_index": 2,
+    "correct_answer": "DEP/NX"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which attack abuses file upload functionality?",
+    "options": [
+      "SQLi",
+      "web shell upload",
+      "CSRF",
+      "XSS"
+    ],
+    "correct_index": 1,
+    "correct_answer": "web shell upload"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which control validates input formats and ranges?",
+    "options": [
+      "input validation",
+      "output encoding",
+      "backup",
+      "logging"
+    ],
+    "correct_index": 0,
+    "correct_answer": "input validation"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which concept separates duties to prevent fraud?",
+    "options": [
+      "segregation of duties",
+      "least privilege",
+      "default allow",
+      "single admin"
+    ],
+    "correct_index": 0,
+    "correct_answer": "segregation of duties"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which practice reduces password cracking success?",
+    "options": [
+      "hash truncation",
+      "compression",
+      "encoding",
+      "salting"
+    ],
+    "correct_index": 3,
+    "correct_answer": "salting"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which mechanism rotates cryptographic keys periodically?",
+    "options": [
+      "key caching",
+      "key reuse",
+      "key sharing",
+      "key rotation"
+    ],
+    "correct_index": 3,
+    "correct_answer": "key rotation"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which attack uses forged source IPs?",
+    "options": [
+      "DNS spoofing",
+      "MITM",
+      "ARP spoofing",
+      "IP spoofing"
+    ],
+    "correct_index": 3,
+    "correct_answer": "IP spoofing"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which log property ensures it hasns brut been altered?",
+    "options": [
+      "redundancy",
+      "immutability",
+      "compression",
+      "availability"
+    ],
+    "correct_index": 1,
+    "correct_answer": "immutability"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which header manipulation attack targets web apps?",
+    "options": [
+      "SQLi",
+      "CSRF",
+      "HTTP request smuggling",
+      "XSS"
+    ],
+    "correct_index": 2,
+    "correct_answer": "HTTP request smuggling"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which TLS property ensures data integrity?",
+    "options": [
+      "caching",
+      "MAC/AEAD",
+      "routing",
+      "compression"
+    ],
+    "correct_index": 1,
+    "correct_answer": "MAC/AEAD"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which encryption mode may leak patterns if not used with IVs properly?",
+    "options": [
+      "CTR",
+      "CBC",
+      "ECB",
+      "GCM"
+    ],
+    "correct_index": 2,
+    "correct_answer": "ECB"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which tool can capture network packets for analysis?",
+    "options": [
+      "switch",
+      "router",
+      "sniffer",
+      "firewall"
+    ],
+    "correct_index": 2,
+    "correct_answer": "sniffer"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which malware disguises itself as legitimate software?",
+    "options": [
+      "rootkit",
+      "trojan",
+      "worm",
+      "virus"
+    ],
+    "correct_index": 1,
+    "correct_answer": "trojan"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which cloud risk is commonly due to human error?",
+    "options": [
+      "hardware failure",
+      "misconfiguration",
+      "downtime",
+      "latency"
+    ],
+    "correct_index": 1,
+    "correct_answer": "misconfiguration"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which metric defines acceptable data loss window?",
+    "options": [
+      "RTO",
+      "MTTR",
+      "SLA",
+      "RPO"
+    ],
+    "correct_index": 3,
+    "correct_answer": "RPO"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which DNS attack injects false records into cache?",
+    "options": [
+      "DNS cache poisoning",
+      "MITM",
+      "XSS",
+      "ARP spoofing"
+    ],
+    "correct_index": 0,
+    "correct_answer": "DNS cache poisoning"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which command lists running processes?",
+    "options": [
+      "pwd",
+      "cd",
+      "i",
+      "ls"
+    ],
+    "correct_index": 2,
+    "correct_answer": "i"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which attack floods half-open TCP connections?",
+    "options": [
+      "ICMP flood",
+      "UDP flood",
+      "SYN flood",
+      "Xss"
+    ],
+    "correct_index": 2,
+    "correct_answer": "SYN flood"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which control reduces blast radius via isolation?",
+    "options": [
+      "monitoring",
+      "backup",
+      "segmentation",
+      "encryption"
+    ],
+    "correct_index": 2,
+    "correct_answer": "segmentation"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which protocol is plaintext for file transfer?",
+    "options": [
+      "SFTP",
+      "FTPS",
+      "e FTP",
+      "HTTPS"
+    ],
+    "correct_index": null,
+    "correct_answer": null
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which system prevents execution of non-approved binaries?",
+    "options": [
+      "logging",
+      "application allowlisting",
+      "monitoring",
+      "blacklisting"
+    ],
+    "correct_index": 1,
+    "correct_answer": "application allowlisting"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which IDS type monitors a single host?",
+    "options": [
+      "proxy",
+      "WAF",
+      "NIDS",
+      "HIDS"
+    ],
+    "correct_index": 3,
+    "correct_answer": "HIDS"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which scenario is a TOCTOU vulnerability?",
+    "options": [
+      "packet loss",
+      "login timeout",
+      "password reuse",
+      "resource changes after validation before use"
+    ],
+    "correct_index": 3,
+    "correct_answer": "resource changes after validation before use"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which concept ensures actions can be linked to a user?",
+    "options": [
+      "accountability",
+      "availability",
+      "integrity",
+      "confidentiality"
+    ],
+    "correct_index": 0,
+    "correct_answer": "accountability"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which principle limits user access to the minimum necessary?",
+    "options": [
+      "open access",
+      "default allow",
+      "shared accounts",
+      "least privilege"
+    ],
+    "correct_index": 3,
+    "correct_answer": "least privilege"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which protocol is insecure due to plaintext credentials?",
+    "options": [
+      "SSH",
+      "SFTP",
+      "HTTPS",
+      "Telnet"
+    ],
+    "correct_index": 3,
+    "correct_answer": "Telnet"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Trying many passwords systematically is:",
+    "options": [
+      "MITM",
+      "brute force",
+      "DoS",
+      "XSS"
+    ],
+    "correct_index": 1,
+    "correct_answer": "brute force"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "oe Which command traces the path packets take to a destination?",
+    "options": [
+      "ifconfig",
+      "ping",
+      "traceroute",
+      "netstat"
+    ],
+    "correct_index": 2,
+    "correct_answer": "traceroute"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Asymmetric cryptography uses:",
+    "options": [
+      "public/private key pairs",
+      "single shared key",
+      "hash only",
+      "no keys"
+    ],
+    "correct_index": 0,
+    "correct_answer": "public/private key pairs"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Email-based deception to trick users is:",
+    "options": [
+      "MITM",
+      "DoS",
+      "sniffing",
+      "phishing"
+    ],
+    "correct_index": 3,
+    "correct_answer": "phishing"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which port is used by Telnet?",
+    "options": [
+      "22",
+      "25",
+      "23",
+      "21"
+    ],
+    "correct_index": 2,
+    "correct_answer": "23"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which protocol assigns IP addresses dynamically?",
+    "options": [
+      "ARP",
+      "DHCP",
+      "DNS",
+      "ICMP"
+    ],
+    "correct_index": 1,
+    "correct_answer": "DHCP"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "A distributed attack using many sources is called:",
+    "options": [
+      "phishing",
+      "MITM",
+      "DDoS",
+      "DoS"
+    ],
+    "correct_index": 2,
+    "correct_answer": "DDoS"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "| Which attack injects malicious SQL into queries?",
+    "options": [
+      "XSS",
+      "CSRF",
+      "SQL injection",
+      "MITM"
+    ],
+    "correct_index": 2,
+    "correct_answer": "SQL injection"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which command shows network interface configuration?",
+    "options": [
+      "ping",
+      "netstat",
+      "ifconfig",
+      "route"
+    ],
+    "correct_index": 2,
+    "correct_answer": "ifconfig"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which protocol retrieves email while allowing server-side storage?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "IMAP"
+    ],
+    "correct_index": 3,
+    "correct_answer": "IMAP"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which port is commonly used for SSH?",
+    "options": [
+      "21",
+      "22",
+      "23",
+      "25 |"
+    ],
+    "correct_index": 1,
+    "correct_answer": "22"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": ". Which attack manipulates ARP tables to redirect traffic?",
+    "options": [
+      "ARP spoofing",
+      "DNS poisoning",
+      "MITM (generic)",
+      "DoS"
+    ],
+    "correct_index": 0,
+    "correct_answer": "ARP spoofing"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which attack steals cookies via injected scripts?",
+    "options": [
+      "SQLi",
+      "DoS",
+      "MITM",
+      "XSS"
+    ],
+    "correct_index": 3,
+    "correct_answer": "XSS"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Symmetric encryption uses:",
+    "options": [
+      "no keys",
+      "public/private key pair",
+      "hashes only",
+      "the same key for encrypt/decrypt"
+    ],
+    "correct_index": 3,
+    "correct_answer": "the same key for encrypt/decrypt"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which protocol provides secure remote shell access?",
+    "options": [
+      "FTP",
+      "SSH",
+      "SMTP",
+      "Telnet"
+    ],
+    "correct_index": 1,
+    "correct_answer": "SSH"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which attack overwhelms resources to disrupt availability?",
+    "options": [
+      "MITM",
+      "XSS",
+      "phishing",
+      "DoS"
+    ],
+    "correct_index": 3,
+    "correct_answer": "DoS"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which command queries DNS servers for name resolution?",
+    "options": [
+      "traceroute",
+      "ping",
+      "nslookup",
+      "netstat"
+    ],
+    "correct_index": 2,
+    "correct_answer": "nslookup"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which protocol uses port 53 by default?",
+    "options": [
+      "DNS",
+      "HTTP",
+      "FTP",
+      "SMTP"
+    ],
+    "correct_index": 0,
+    "correct_answer": "DNS"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which control type restores systems after an incident?",
+    "options": [
+      "preventive",
+      "deterrent",
+      "detective",
+      "corrective"
+    ],
+    "correct_index": 3,
+    "correct_answer": "corrective"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which attack exploits browser trust by forcing unwanted actions?",
+    "options": [
+      "XSS",
+      "MITM",
+      "CSRF",
+      "SQLi"
+    ],
+    "correct_index": 2,
+    "correct_answer": "CSRF"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which Linux command changes file permissions?",
+    "options": [
+      "chown",
+      "chmod",
+      "chgrp",
+      "ls"
+    ],
+    "correct_index": 1,
+    "correct_answer": "chmod"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which technique uses precomputed hashes to crack passwords?",
+    "options": [
+      "spoofing",
+      "dictionary attack",
+      "brute force",
+      "rainbow table"
+    ],
+    "correct_index": 3,
+    "correct_answer": "rainbow table"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "UDP lacks built-in:",
+    "options": [
+      "simplicity",
+      "reliability",
+      "speed",
+      "low overhead"
+    ],
+    "correct_index": 1,
+    "correct_answer": "reliability"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "SMTP is primarily used for:",
+    "options": [
+      "encrypting mail",
+      "routing packets",
+      "sending mail",
+      "receiving mail"
+    ],
+    "correct_index": 2,
+    "correct_answer": "sending mail"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which command displays active connections and listening ports?",
+    "options": [
+      "route",
+      "ifconfig",
+      "netstat",
+      "ping"
+    ],
+    "correct_index": 2,
+    "correct_answer": "netstat"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "RTO defines acceptable:",
+    "options": [
+      "data loss",
+      "latency",
+      "downtime",
+      "throughput |"
+    ],
+    "correct_index": 2,
+    "correct_answer": "downtime"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "ARP poisoning most directly enables which attack?",
+    "options": [
+      "MITM",
+      "DoS",
+      "phishing",
+      "DNS spoofing"
+    ],
+    "correct_index": 0,
+    "correct_answer": "MITM"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "A firewall tracking connection state is described as:",
+    "options": [
+      "stateful",
+      "stateless",
+      "NAT-only",
+      "packet-only"
+    ],
+    "correct_index": 0,
+    "correct_answer": "stateful"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which property means a hash function is one-way?",
+    "options": [
+      "reversibility",
+      "irreversibility",
+      "encryption",
+      "compression"
+    ],
+    "correct_index": 1,
+    "correct_answer": "irreversibility"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which algorithm is symmetric encryption?",
+    "options": [
+      "AES",
+      "Diffie-Hellman",
+      "ECC",
+      "RSA |"
+    ],
+    "correct_index": 0,
+    "correct_answer": "AES"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which default port is used for HTTPS?",
+    "options": [
+      "80",
+      "21",
+      "443",
+      "25 |"
+    ],
+    "correct_index": 2,
+    "correct_answer": "443"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which biometric modality generally has low false acceptance rates?",
+    "options": [
+      "iris",
+      "voice",
+      "face",
+      "signature"
+    ],
+    "correct_index": 0,
+    "correct_answer": "iris"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which backup type stores changes since the last full backup?",
+    "options": [
+      "snapshot",
+      "incremental",
+      "differential",
+      "full |"
+    ],
+    "correct_index": 2,
+    "correct_answer": "differential"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which RAID level mirrors data for redundancy?",
+    "options": [
+      "RAID 5",
+      "RAID O",
+      "RAID1",
+      "RAID 10 |"
+    ],
+    "correct_index": 2,
+    "correct_answer": "RAID1"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which site type requires setup before becoming operational?",
+    "options": [
+      "hot site",
+      "mirror site",
+      "cold site",
+      "warm site"
+    ],
+    "correct_index": 2,
+    "correct_answer": "cold site"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which IR phase focuses on isolating affected systems to limit spread?",
+    "options": [
+      "recovery",
+      "identification",
+      "eradication",
+      "containment"
+    ],
+    "correct_index": 3,
+    "correct_answer": "containment"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which wireless attack uses a rogue AP to mimic a legitimate network?",
+    "options": [
+      "deauthentication",
+      "evil twin",
+      "jamming",
+      "war driving"
+    ],
+    "correct_index": 1,
+    "correct_answer": "evil twin"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which malware can self-propagate across networks without user action?",
+    "options": [
+      "spyware",
+      "worm",
+      "trojan",
+      "virus"
+    ],
+    "correct_index": 1,
+    "correct_answer": "worm"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which vulnerability class arises from unsanitized database inputs?",
+    "options": [
+      "buffer overflow",
+      "SQL injection",
+      "XSS",
+      "CSRF"
+    ],
+    "correct_index": 1,
+    "correct_answer": "SQL injection"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which attack intercepts and possibly alters communications between two parties?",
+    "options": [
+      "MITM",
+      "SQLi",
+      "XSS",
+      "DoS"
+    ],
+    "correct_index": 0,
+    "correct_answer": "MITM"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which phase identifies live hosts and gathers initial information?",
+    "options": [
+      "exploitation",
+      "reporting",
+      "scanning",
+      "reconnaissance"
+    ],
+    "correct_index": 3,
+    "correct_answer": "reconnaissance"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which testing approach assumes no prior knowledge of the system?",
+    "options": [
+      "white box",
+      "internal test",
+      "grey box",
+      "black box"
+    ],
+    "correct_index": 3,
+    "correct_answer": "black box"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which cloud model offers the least customer control over the stack?",
+    "options": [
+      "laaS",
+      "SaaS",
+      "PaaS",
+      "DaaS"
+    ],
+    "correct_index": 1,
+    "correct_answer": "SaaS"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which protocol secures HTTP with encryption and integrity?",
+    "options": [
+      "SMTP",
+      "FTP",
+      "HTTPS",
+      "HTTP."
+    ],
+    "correct_index": 2,
+    "correct_answer": "HTTPS"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which WPA feature mitigates offline dictionary attacks?",
+    "options": [
+      "SAE",
+      "TKIP",
+      "PSK",
+      "WEP"
+    ],
+    "correct_index": 0,
+    "correct_answer": "SAE"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which network segment isolates public-facing services from the internal network?",
+    "options": [
+      "WAN",
+      "LAN",
+      "DMZ",
+      "VLAN"
+    ],
+    "correct_index": 2,
+    "correct_answer": "DMZ"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which document type provides recommended but non-mandatory guidance?",
+    "options": [
+      "policy",
+      "standard",
+      "procedure",
+      "guideline"
+    ],
+    "correct_index": 3,
+    "correct_answer": "guideline"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which access control model assigns permissions based on job roles?",
+    "options": [
+      "RBAC",
+      "MAC",
+      "ABAC",
+      "DAC"
+    ],
+    "correct_index": 0,
+    "correct_answer": "RBAC"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which CIA principle ensures systems and data are accessible when needed?",
+    "options": [
+      "availability",
+      "authenticity",
+      "integrity",
+      "confidentiality"
+    ],
+    "correct_index": 0,
+    "correct_answer": "availability"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which function returns the current working directory?",
+    "options": [
+      "mkdir",
+      "e getcwd",
+      "listdir",
+      "chdir"
+    ],
+    "correct_index": null,
+    "correct_answer": null
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which file mode truncates an existing file upon open?",
+    "options": [
+      "x",
+      "w",
+      "is",
+      "a"
+    ],
+    "correct_index": 1,
+    "correct_answer": "w"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which list method removes the first occurrence of a given value?",
+    "options": [
+      "remove",
+      "pop",
+      "delete",
+      "clear"
+    ],
+    "correct_index": 0,
+    "correct_answer": "remove"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which keyword skips the rest of the current loop iteration?",
+    "options": [
+      "exit",
+      "continue",
+      "break",
+      "return"
+    ],
+    "correct_index": 1,
+    "correct_answer": "continue"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which Python construct defines an anonymous function?",
+    "options": [
+      "def",
+      "method",
+      "func",
+      "lambda"
+    ],
+    "correct_index": 3,
+    "correct_answer": "lambda"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which VPN approach operates at Layer 3 and can provide confidentiality and integrity?",
+    "options": [
+      "IPSec",
+      "SSL (application layer only)",
+      "PPTP",
+      "L2TP (without IPSec)"
+    ],
+    "correct_index": 0,
+    "correct_answer": "IPSec"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which authentication system relies on tickets and synchronized time?",
+    "options": [
+      "RADIUS",
+      "TACACS+",
+      "LDAP",
+      "Kerberos"
+    ],
+    "correct_index": 3,
+    "correct_answer": "Kerberos"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which AAA protocol typically encrypts only the password field?",
+    "options": [
+      "RADIUS,",
+      "LDAP.",
+      "Kerberos",
+      "TACACS+"
+    ],
+    "correct_index": 0,
+    "correct_answer": "RADIUS,"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which NAT type maps many private hosts to a single public IP with port translation?",
+    "options": [
+      "Py PAT",
+      "static NAT",
+      "dynamic NAT",
+      "one-to-one NAT"
+    ],
+    "correct_index": null,
+    "correct_answer": null
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which protocol offers best-effort, connectionless delivery?",
+    "options": [
+      "UDP.",
+      "TcP",
+      "HTTPS",
+      "IPSec"
+    ],
+    "correct_index": 0,
+    "correct_answer": "UDP."
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which protocol resolves IP addresses to MAC addresses?",
+    "options": [
+      "ICMP.",
+      "DHCP",
+      "ARP.",
+      "DNS"
+    ],
+    "correct_index": 2,
+    "correct_answer": "ARP."
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which OSI layer provides end-to-end reliability and flow control?",
+    "options": [
+      "data link",
+      "session",
+      "transport",
+      "network"
+    ],
+    "correct_index": 2,
+    "correct_answer": "transport"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which topologys hms central node is a single point of failure?",
+    "options": [
+      "mesh",
+      "star",
+      "ring",
+      "bus"
+    ],
+    "correct_index": 1,
+    "correct_answer": "star"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which device forwards frames based on MAC addresses?",
+    "options": [
+      "switch",
+      "router",
+      "firewall",
+      "hub"
+    ],
+    "correct_index": 0,
+    "correct_answer": "switch"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which systemctl action re-reads configuration without a full restart?",
+    "options": [
+      "start",
+      "reload",
+      "restart",
+      "enable"
+    ],
+    "correct_index": 1,
+    "correct_answer": "reload"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which pager allows interactive navigation of large files without loading all into memory?",
+    "options": [
+      "head",
+      "e less",
+      "cat",
+      "tail"
+    ],
+    "correct_index": null,
+    "correct_answer": null
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which utility archives multiple files into a single stream before optional compression?",
+    "options": [
+      "tar",
+      "rar",
+      "gzip",
+      "zip"
+    ],
+    "correct_index": 0,
+    "correct_answer": "tar"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which tool searches for text patterns within files using regular expressions?",
+    "options": [
+      "locate",
+      "find",
+      "grep",
+      "Is"
+    ],
+    "correct_index": 2,
+    "correct_answer": "grep"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which Linux command removes a directory only if it is empty?",
+    "options": [
+      "rmdir",
+      "del",
+      "rm -r",
+      "rm -rf"
+    ],
+    "correct_index": 0,
+    "correct_answer": "rmdir"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Password + security question uses which number of factors?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correct_index": 3,
+    "correct_answer": "1"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Silent alteration of database records without disclosure is a breach of which CIA element?",
+    "options": [
+      "authenticity",
+      "availability",
+      "integrity",
+      "confidentiality"
+    ],
+    "correct_index": 2,
+    "correct_answer": "integrity"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "A banner warning users about monitoring mainly functions as which control type?",
+    "options": [
+      "detective",
+      "preventive",
+      "deterrent",
+      "corrective"
+    ],
+    "correct_index": 2,
+    "correct_answer": "deterrent"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which control type primarily reduces the likelihood of an incident before it occurs?",
+    "options": [
+      "detective",
+      "deterrent",
+      "preventive",
+      "corrective"
+    ],
+    "correct_index": 2,
+    "correct_answer": "preventive"
+  },
+  {
+    "source": "Абдулла тесты",
+    "question": "Which term represents the combination of likelihood and impact for a potential event affecting an asset?",
+    "options": [
+      "control",
+      "risk",
+      "threat",
+      "vulnerability"
+    ],
+    "correct_index": 1,
+    "correct_answer": "risk"
+  }
+]
